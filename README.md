@@ -4,7 +4,7 @@ Valentine Project is a responsive web application designed to celebrate love thr
 
 ## Live Website
 
-Check out the live site here: [Live Valentine Project](https://nouzen-shinei.github.io/Valentine-Week/)
+Check out the live site here: [Live Valentine Project]()
 
 ## Features
 
