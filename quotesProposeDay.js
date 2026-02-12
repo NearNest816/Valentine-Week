@@ -3,16 +3,13 @@ const fpNameEl = document.querySelector("#fpname");
 const spNameEl = document.querySelector("#spname");
 
 const proposeQuotes = [
-  `In the garden of love, will you be my forever flower?`,
-  `Our love story is my favorite. Will you make it official and be my forever?`,
-  `I'm not a genie, but I can make your dreams come true. Will you be my wish?`,
-  `Are you a camera? Every time I look at you, I smile. Will you be the reason for my happiness?`,
-  `Is your name Wi‑fi? Because I'm feeling a connection. Will you be my forever signal?`,
-  `Excuse me, but I think you dropped something: MY JAW. Will you pick it up and be my valentine?`,
-  `Do you have a map? Because I just got lost in your eyes, and now I need directions to your heart.`,
-  `I was blinded by your beauty; I'm going to need your name and number for insurance purposes.`,
-  `You're the answer to my prayers. Will you make my dreams come true by being mine?`,
-  `If kisses were snowflakes, I'd send you a blizzard. Will you be my snow queen?`
+"იმ დღეს, როცა შენ მითხარი 'თანახმა ვარ, ვიყოთ ერთად'... ჩემმა გულმა პირველად იგრძნო, რომ ეს სიყვარული სამუდამო იქნებოდა 💍",
+    "შენი 'კი' იყო ჩემი ცხოვრების ყველაზე ულამაზესი და გარდამტეხი მომენტი... იმ მომენტიდან დაიწყო ჩვენი ლამაზი ისტორია 💗",
+    "ჩვენი შეყვარებულობის დასაწყისი იყო ის მარტივი სიტყვა 'კი'... მაგრამ მის უკან იმალებოდა მთელი სამყარო ❤️",
+    "შენ რომ მითხარი 'მეც მიყვარხარ', მივხვდი, რომ შენ იქნებოდი ჩემი საკურას ყვავილი, რომლის მებაღეც სწორედ მე ვიქნებოდი სამუდამოდ 🌸",
+    "იმ საღამოს, როცა ოფიციალურად შეყვარებულები გავხდით... ცა უფრო კაშკაშა გახდა, ვიდრე იქამდე იყო ჩემთვის ✨",
+    "ჩვენი პირველი 'შეყვარებულები ვართ' ეს იყო ჩვენი ყველაზე ტკბილი დასაწყისი 💕",
+    "გმადლობ, რომ იყავი ჩემთან იმ მომენტში, როცა ჩვენი გულები ერთმანეთს შეხვდა... და ახლა უკვე კი აქამდე ვართ მოსულები და ჯერ კიდევ ძალიან ბევრი გვაქვს მე და შენ გასავლელი ერთად"
 ];
 
 fetch('config.json')
