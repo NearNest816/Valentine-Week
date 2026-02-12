@@ -13,6 +13,13 @@
         <h2>* ჩვენი პირველი მიმოწერა 💌 *</h2>
         <div class="hero">
             <div class="left">
+                <!-- ჩვენი ერთობლივი ფოტო ზემოთ, ლამაზად -->
+                <div style="text-align: center; margin: 20px 0;">
+                    <img src="assets/couple-1853499.jpg" alt="Near & საკურა" 
+                         style="width: 220px; height: 220px; border-radius: 50%; object-fit: cover; border: 5px solid #ff69b4; box-shadow: 0 0 20px rgba(255,105,180,0.6);">
+                    <p style="margin-top: 12px; font-size: 1.2em; color: #ff69b4; font-weight: bold;">Near & საკურა 💗</p>
+                </div>
+
                 <div class="lovers-details">
                     <img src="./assets/Love In The Air SVG Cut File.svg" alt="Love In The Air"
                         style="width:100px;height:100px;margin-top: 2.5rem;margin-bottom: 2.5rem;">
@@ -57,13 +64,9 @@
     <script src="https://cdn.lordicon.com/lordicon.js"></script>
     <script>
         const roseAudio = document.getElementById('roseMusic');
-
-        // ავტომატური დაკვრა (თუ ბრაუზერი დაშვებს)
         roseAudio.play().catch(error => {
             console.log("Autoplay blocked - click anywhere to play");
         });
-
-        // თუ ბრაუზერი ბლოკავს — კლიკზე დაუკარი (მხოლოდ ერთხელ)
         document.body.addEventListener('click', () => {
             if (roseAudio.paused) {
                 roseAudio.play().catch(() => console.log("Still blocked"));
