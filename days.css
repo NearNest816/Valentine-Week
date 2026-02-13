@@ -1,42 +1,44 @@
 body {
     width: 100%;
-    background: url('./assets/pexels-anntarazevich-6712383.jpg') no-repeat center center;
+    background: url('./assets/couple-1853499.jpg') no-repeat center center;
     background-size: cover;
     backdrop-filter: blur(10px);
 }
 
 .rose-right {
-    background: url('./assets/biel-morro-kcKiBcDTJt4-unsplash.jpg') no-repeat center center;
+    background: url('./assets/couple-1853499.jpg') no-repeat center center;
     background-size: cover;
     background-position: center;
 }
 
 .propose-right {
-    background: url('./assets/nikola-mihajloski-LPMoA5AaMBI-unsplash.jpg') no-repeat center center;
+    background: url('./assets/couple-1934204_1920.jpg') no-repeat center center;
     background-size: cover;
     background-position: center;
 }
 
 .chocolate-right {
-    background: url('./assets/jasmine-waheed-hQPLAFopuaE-unsplash.jpg') no-repeat center center;
+    background: url('./assets/couple-181119.jpg') no-repeat center center;
     background-size: cover;
     background-position: center;
 }
 
 .teddy-right {
-    background: url('./assets/jeshoots-com-dJSS2dhTjA4-unsplash.jpg') no-repeat center center;
+    background: url('./assets/couple-6823903_1111.jpg') no-repeat center center;
     background-size: cover;
     background-position: center;
 }
 
 .promise-right {
-    background: url('./assets/heart-3905176.jpg') no-repeat center center;
+    background: url('./assets/couple-6935366.jpg') no-repeat center center;
     background-size: cover;
     background-position: center;
 }
 
 .hug-right {
-    background: url('./assets/couple-1853499.jpg') no-repeat center center;
+    background: url('./assets/couple-1444499.jpg') no-repeat center center;
     background-size: cover;
     background-position: center;
 }
+}
+
